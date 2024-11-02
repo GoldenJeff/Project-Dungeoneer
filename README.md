@@ -7,7 +7,6 @@ Created by Ronan Quinn
 An incredibly simplistic 2d first person arcade dungeon crawler.
 
 
-Battle your way through hordes of foes to get the highest score possible.
 
 
 
