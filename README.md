@@ -20,7 +20,7 @@ Pixelorama - Art tool(orama-interactive.itch.io/pixelorama)
 
 Yochai Gal - Cairn 1e (cairnrpg.com)
 
-heartbeast - For the tutorial that I ended up adapting, most of the art and some sound effects, which came from said tutorial(youtube.com/@uheartbeast)
+heartbeast - For the tutorial that I ended up adapting and for most of the art and some sound effects, which came from said tutorial(youtube.com/@uheartbeast)
 
 Various peoples of the internet - For providing to my google searches 
 
